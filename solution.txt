@@ -1,4 +1,4 @@
-Nom des lieux qui finissent par 'um' (trié par ordre alphabétique).
+1. Nom des lieux qui finissent par 'um' (trié par ordre alphabétique).
 
 SELECT l.nom_lieu
 FROM lieu l
